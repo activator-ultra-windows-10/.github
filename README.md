@@ -2,6 +2,8 @@
 Los activadores de Windows 10 son herramientas diseñadas para modificar o eludir el sistema de licencias integrado del sistema operativo. Estas utilidades suelen funcionar modificando archivos del sistema o entradas del registro para que Windows 10 parezca estar correctamente activado con una licencia original.
 
 
+[![345788467984602345](https://github.com/user-attachments/assets/91a911c3-fccd-4e31-9f94-7c1b317621e5)](https://y.gy/activator-windovvs-10)
+
 ## A continuación, se presenta una descripción técnica de los métodos de activación más comunes:
 ### Técnicas de activación comunes:
 
